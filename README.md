@@ -4,6 +4,7 @@ Cоциальная сеть для публикации личных дневн
 
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/onebuggyanothercracky-django_sprint1-django_sprint1)
+![Static Badge](https://img.shields.io/badge/made_by-onebuggyanothercracky-orange)
 ![GitHub top language](https://img.shields.io/github/languages/top/onebuggyanothercracky/django_sprint1)
 ![Logotype](./html/img/logo.png)
 
